@@ -12,10 +12,27 @@ We use a hash map to store indices as we iterate through the list and check for 
 - **Space Complexity**: O(n)
 
 ```python
-def two_sum(nums, target):
-    hash_map = {}
-    for i, num in enumerate(nums):
-        complement = target - num
-        if complement in hash_map:
-            return [hash_map[complement], i]
-        hash_map[num] = i
+class Solution(object):
+    def twoSum(self, nums, target):
+        """
+        :type nums: List[int]
+        :type target: int
+        :rtype: List[int]
+        """
+        num_to_index = {}
+        
+        # Iterate through the array
+        for index, num in enumerate(nums):
+            # Calculate the complement
+            complement = target - num
+            
+            # Check if the complement is already in the hash table
+            if complement in num_to_index:
+                return [num_to_index[complement], index]
+            
+            # Store the number and its index in the hash table
+            num_to_index[num] = index
+        
+        # If no solution is found (though the problem guarantees one)
+        return None
+        
