@@ -8,11 +8,22 @@ This repository contains solutions to various coding problems organized by topic
 
 ### 1. `Array`
 
-**Example Problems**:
-- Two Sum
-- Product of Array Except Self
-- Container With Most Water
-- 
+- **1. Two Sum**  
+
+- **11. Container With Most Water**  
+
+- **121. Best Time to Buy and Sell Stock**  
+
+- **122. Best Time to Buy and Sell Stock II**  
+
+- **217. Contains Duplicate**  
+
+- **238. Product of Array Except Self**  
+
+- **309. Best Time to Buy and Sell Stock with Cooldown**  
+
+- **714. Best Time to Buy and Sell Stock with Transaction Fee**
+  
 
 ### 2. `Binary`
 
