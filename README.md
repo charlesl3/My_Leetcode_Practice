@@ -8,21 +8,34 @@ This repository contains solutions to various coding problems organized by topic
 
 ### 1. `Array`
 
-- **1. Two Sum**  
+- **1. Two Sum**
 
-- **11. Container With Most Water**  
+- **11. Container With Most Water**
 
-- **121. Best Time to Buy and Sell Stock**  
+- **121. Best Time to Buy and Sell Stock**
 
-- **122. Best Time to Buy and Sell Stock II**  
+- **122. Best Time to Buy and Sell Stock II**
 
-- **217. Contains Duplicate**  
+- **15. 3Sum**
 
-- **238. Product of Array Except Self**  
+- **152. Maximum Product Subarray**
 
-- **309. Best Time to Buy and Sell Stock with Cooldown**  
+- **153. Find Minimum in Rotated Sorted Array**
+
+- **18. 4Sum**
+
+- **217. Contains Duplicate**
+
+- **238. Product of Array Except Self**
+
+- **309. Best Time to Buy and Sell Stock with Cooldown**
+
+- **33. Search in Rotated Sorted Array**
+
+- **53. Maximum Subarray**
 
 - **714. Best Time to Buy and Sell Stock with Transaction Fee**
+
   
 
 ### 2. `Binary`
