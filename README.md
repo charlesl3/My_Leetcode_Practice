@@ -16,13 +16,13 @@ This repository contains solutions to various coding problems organized by topic
 
 ### 2. `Binary`
 
-### 3. `Dynamic_Programming`
+### 3. `Dynamic Programming`
 
 ### 4. `Graph`
 
 ### 5. `Interval`
 
-### 6. `Linked_List`
+### 6. `Linked List`
 
 ### 7. `Matrix`
 
