@@ -6,30 +6,31 @@ This repository contains solutions to various coding problems organized by topic
 
 ## Folder Structure
 
-### 1. `array`
+### 1. `Array`
 
 **Example Problems**:
 - Two Sum
 - Product of Array Except Self
 - Container With Most Water
+- 
 
-### 2. `binary`
+### 2. `Binary`
 
-### 3. `dynamic_programming`
+### 3. `Dynamic_Programming`
 
-### 4. `graph`
+### 4. `Graph`
 
-### 5. `interval`
+### 5. `Interval`
 
-### 6. `linked_list`
+### 6. `Linked_List`
 
-### 7. `matrix`
+### 7. `Matrix`
 
-### 8. `string`
+### 8. `String`
 
-### 9. `tree`
+### 9. `Tree`
 
-### 10. `heap`
+### 10. `Heap`
 
 ---
 
